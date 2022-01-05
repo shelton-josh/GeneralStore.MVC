@@ -36,7 +36,7 @@ namespace GeneralStore.MVC.Controllers
             {
                 _customerDb.Customers.Add(customer);
                 _customerDb.SaveChanges();
-                return RedirectToAction("IndexCustomer");
+                return RedirectToAction("Index");
             }
             return View(customer);
         }
@@ -49,12 +49,12 @@ namespace GeneralStore.MVC.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Product product = _customerDb.Products.Find(id);
-            if (product == null)
+            Customer customer = _customerDb.Customers.Find(id);
+            if (customer == null)
             {
                 return HttpNotFound();
             }
-            return View(product);
+            return View(customer);
         }
 
         // POST: Delete
@@ -63,10 +63,10 @@ namespace GeneralStore.MVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id)
         {
-            Product product = _customerDb.Products.Find(id);
-            _customerDb.Products.Remove(product);
+            Customer customer = _customerDb.Customers.Find(id);
+            _customerDb.Customers.Remove(customer);
             _customerDb.SaveChanges();
-            return RedirectToAction("IndexCustomer");
+            return RedirectToAction("Index");
         }
 
         // GET: Edit
@@ -77,12 +77,12 @@ namespace GeneralStore.MVC.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Product product = _customerDb.Products.Find(id);
-            if (product == null)
+            Customer customer = _customerDb.Customers.Find(id);
+            if (customer == null)
             {
                 return HttpNotFound();
             }
-            return View(product);
+            return View(customer);
         }
 
         // POST: Edit// Customer/Edit/{id}
@@ -94,7 +94,7 @@ namespace GeneralStore.MVC.Controllers
             {
                 _customerDb.Entry(customer).State = EntityState.Modified;
                 _customerDb.SaveChanges();
-                return RedirectToAction("IndexCustomer");
+                return RedirectToAction("Index");
             }
             return View(customer);
         }

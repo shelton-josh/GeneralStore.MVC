@@ -1,3 +1,9 @@
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.InitialCreate.resources
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.InitialCreate1.resources
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.Test.resources
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.GenerateResource.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.CoreCompileInputs.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\GeneralStore.MVC.dll.config
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\GeneralStore.MVC.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\GeneralStore.MVC.pdb
@@ -101,10 +107,6 @@ C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralSt
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.InitialCreate.resources
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.InitialCreate1.resources
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.GenerateResource.cache
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.CoreCompileInputs.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.CopyComplete
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.pdb
